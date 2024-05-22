@@ -1,7 +1,7 @@
 # digital_marketplace
 
-this is a testiong solution developed as part of the Algorand Developer Bootcamp. It leverages AlgoKit, a powerful toolset for Algorand blockchain development.
-The digital marketplace you're building is likely to facilitate to create assets, the buying and selling of digital assets or services on the Algorand blockchain.
+this is a testing solution developed as part of the Algorand Developer Bootcamp. It leverages AlgoKit, a powerful toolset for Algorand blockchain development.
+The digital marketplace facilitate to create assets, the buying and selling of digital assets or services on the Algorand blockchain.
 
 
 This is your workspace root. A `workspace` in AlgoKit is an orchestrated collection of standalone projects (backends, smart contracts, frontend apps and etc).
